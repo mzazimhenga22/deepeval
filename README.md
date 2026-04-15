@@ -64,7 +64,20 @@ Whether you're building AI agents, RAG pipelines, or chatbots, implemented via L
 
 > Want to talk LLM evaluation, need help picking metrics, or just to say hi? [Come join our discord.](https://discord.com/invite/3SEyvpgu2f)
 
-<br />
+<br /> 
+
+---
+
+## 🛠️ Personal Showcase: AI Evaluation Portfolio
+**Role Alignment:** Prompt Engineer / AI Training Specialist
+I forked this framework to build a custom validation suite for LLM hallucinations and instruction adherence. 
+
+* **Custom Test Suite:** Located in `/tests/muthoni_ai_evals/`
+* **Key Focus:** Implementing **G-Eval** metrics to measure factual consistency in multi-turn customer support agents.
+* **Documentation:** See [FORK_NOTES.md](./FORK_NOTES.md) for my detailed methodology on reducing hallucination rates.
+
+---
+
 
 # 🔥 Metrics and Features
 
